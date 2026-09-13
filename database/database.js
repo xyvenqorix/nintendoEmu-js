@@ -2,8 +2,8 @@ const juegos = [
 
     {
  {
-        id: "mario_gba",
-        name: "Classic NES Series - Super Mario Bros.",
+        id: "pokemon_gba",
+        name: "Classic NES Series - Pokemon - Edicion Rojo Fuego",
         rom: "includes/room/Pokemon - Edicion Rojo Fuego (Spain).gba",
         cover: "cover/pokemon.jpg",
         system: "gba"
@@ -11,7 +11,7 @@ const juegos = [
 
     {
         id: "mario_gba",
-        name: "Classic NES Series - Super Mario Bros.",
+        name: "Classic NES Series - Super Mario Bros",
         rom: "includes/room/Classic NES Series - Super Mario Bros. (USA, Europe).gba",
         cover: "cover/mario.jpg",
         system: "gba"
@@ -31,6 +31,6 @@ const juegos = [
         rom: "includes/room/includes/room/Harvest Moon - Friends of Mineral Town (Europe).gba",
         cover: "mario-nes.jpg",
         system: "gba"
-    },
+    }
 
 ];
