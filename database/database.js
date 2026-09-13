@@ -31,7 +31,7 @@ const juegos = [
     id: "Harvest Moon_gba",
         name: "Harvest Moon - Friends of Mineral Town",
         rom: "includes/room/Harvest Moon - Friends of Mineral Town (Europe).gba",
-        cover: "mario-nes.jpg",
+        cover: "Harvestmoon_box_snes.webp",
         system: "gba"
   },
     
