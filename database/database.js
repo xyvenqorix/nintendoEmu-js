@@ -3,7 +3,7 @@ const juegos = [
     {
         id: "pokemon",
         name: "Pokemon Rojo",
-        rom: "Pokemon - Red Versio.gb",
+        rom: "includes/room/Pokemon - Red Versio.gb",
         cover: "cover/pokemon.jpg",
         system: "gb"
     },
