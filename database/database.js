@@ -3,9 +3,9 @@ const juegos = [
     {
         id: "pokemon",
         name: "Pokemon Rojo",
-        rom: "includes/room/Pokemon - Red Versio.gb",
+        rom: "includes/room/Pokemon - Edicion Rojo Fuego (Spain).gba",
         cover: "cover/pokemon.jpg",
-        system: "gb"
+        system: "gba"
     },
 
     {
